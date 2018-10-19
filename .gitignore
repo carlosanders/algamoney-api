@@ -1,0 +1,66 @@
+#
+# Project specific excludes
+#
+tomcat
+
+#
+# Default excludes
+# link: https://github.com/github/gitignore
+#
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+# Binaries
+*.ear
+*.sar
+*.class
+
+# Maven 
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# STS #
+.apt_genarated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# IDE - IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# IDE - eclipse project file
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+nb-configuration.xml
+
+# OS
+.DS_Store
+
+# Misc
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag

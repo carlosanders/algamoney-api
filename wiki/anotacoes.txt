@@ -1,0 +1,42 @@
+doc hibernate:
+http://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html
+
+geracao schema com flyway:
+https://flywaydb.org/
+https://flywaydb.org/documentation/maven/
+
+Github algaworks:
+https://github.com/algaworks/curso-angular-rest-spring-boot-api
+
+aula 3.4 - ok
+aula 3.5 - ok
+aula 3.6 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/3.6%20Cadastrando%20nova%20categoria%20com%20POST/algamoney-api
+aula 3.7 - 19/12/17 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/3.7%20Desafio%20-%20Retornar%20404%20caso%20nao%20exista%20a%20categoria/algamoney-api/src/main
+aula 3.8 - 23/12/17 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/3.8%20Validando%20atributos%20desconhecidos/algamoney-api
+aula 3.9 - 23/12/17 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/blob/master/3.9%20Tratando%20erros%20com%20ExceptionHandler/algamoney-api/src/main/java/com/example/algamoney/api/exceptionhandler/AlgamoneyExceptionHandler.java
+aula 3.10 - 23/12/17 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/3.10%20Validando%20valores%20invalidos%20com%20Bean%20Validation/algamoney-api
+aula 3.11 - 29/12/17 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/3.11%20Desafio%20-%20Criando%20o%20cadastro%20de%20pessoa/algamoney-api/src/main
+aula 3.12 - 12/01/18 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/3.12%20Usando%20eventos%20para%20adicionar%20header%20Location
+aula 5.2 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/5.2%20Desafio%20-%20Lista%20e%20busca%20de%20lancamentos
+aula 5.3 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/5.3%20Desafio%20-%20Cadastrando%20o%20primeiro%20lancamento
+aula 5.4 - ok
+aula 5.5 - 14/05/2018 23:29h - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/5.5%20Validando%20lancamento%20com%20Bean%20Validation/algamoney-api
+
+14/08/2018 15:29h - aula 5.6 - ok
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/5.6%20Regra%20para%20nao%20salvar%20pessoa%20inativa/algamoney-api/src
+
+14/08/2018 15:45h - aula 5.7 - ok 16:30h
+https://github.com/algaworks/curso-angular-rest-spring-boot-api/tree/master/5.7%20Implementando%20pesquisa%20de%20lancamento%20com%20Metamodel
+
+
+
