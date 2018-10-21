@@ -16,3 +16,4 @@ public abstract class Usuario_ {
 	public static volatile SingularAttribute<Usuario, String> email;
 
 }
+

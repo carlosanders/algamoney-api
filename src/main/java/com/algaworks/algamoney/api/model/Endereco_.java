@@ -17,3 +17,4 @@ public abstract class Endereco_ {
 	public static volatile SingularAttribute<Endereco, String> cep;
 
 }
+
