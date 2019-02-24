@@ -57,10 +57,7 @@ Para gerar o **jar** executavel, basta adicionar na tag build do `pom.xml` o seg
 **Fonte:**
 
 *  [https://medium.com/@andgomes/maven-gerando-jars-execut%C3%A1veis-com-projetos-com-depend%C3%AAncias-5bcd022058ee](https://medium.com/@andgomes/maven-gerando-jars-execut%C3%A1veis-com-projetos-com-depend%C3%AAncias-5bcd022058ee)
-
 * [http://www.semeru.com.br/blog/gerando-um-jar-com-as-dependencias-em-um-projeto-maven/](http://www.semeru.com.br/blog/gerando-um-jar-com-as-dependencias-em-um-projeto-maven/)
-
-  
 
 Executar o projeto pelo **bash**, desde que se tenha instalado no PATH o maven corretamente:
 
@@ -84,4 +81,8 @@ Executar pela IDE Eclipse/STS:
 ### Gerando o war a partir do jar
 
 
+
+**Fonte:**
+
+* [https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)
 
