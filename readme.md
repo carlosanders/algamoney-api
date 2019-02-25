@@ -80,7 +80,25 @@ Executar pela IDE Eclipse/STS:
 
 ### Gerando o war a partir do jar
 
+foi criado uma nova branch para contemplar as alterações no projeto para exportar um arquivo war.
 
+* Nome da branch: **master-war**
+
+Para o teste, foi preparado um container docker com o tomcat 8 instalado e copiado o projeto para este containerde modo a subir a vm e testar o projeto da API money.
+
+```bash
+# para criar um container docker com o java 8 e tomcat 8 instalado
+# com base no arquivo "Dockerfile" dentro do diretório wiki
+docker build -t=anders/tomcat8 .
+# para rodar e compilar o container com as alterações, se "stopar" o container será apado, caso não queira remova a opcao "--rm"
+docker run -it --rm --name=tomcat -d --publish=8080:8080 anders/tomcat8 /opt/tomcat/bin/catalina.sh run
+# para vrf o container se está rodando
+docker ps
+# para copiar o projeto da API para o container
+docker cp deploy/algamoney-api-1.0.0.war 61cf7bb33431:/opt/tomcat/webapps/money-api.war
+# para vrf os logs do container
+docker logs tomcat
+```
 
 **Fonte:**
 
